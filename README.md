@@ -2,6 +2,14 @@
 
 Easily mange your pushState.
 
+## Getting Started
+
+You can install the plugin using Bower:
+
+```bash
+bower install quickhistory.js
+```
+
 ## Functions:
 
 ```js
