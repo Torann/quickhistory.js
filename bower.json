@@ -1,0 +1,26 @@
+{
+  "name": "quickhistory.js",
+  "description": "Simple push state manager.",
+  "keywords": [
+    "pushstate",
+    "history"
+  ],
+  "homepage": "https://github.com/torann/quickhistory.js",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "quickhistory.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ]
+}
